@@ -1,2 +1,2 @@
 # humanoids2015_humanMovement
-Empty Repo for managing task list for humanoids2015
+Management repo for humands - human movement analysis paper issue and deadlines
